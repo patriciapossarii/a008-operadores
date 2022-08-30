@@ -4,6 +4,8 @@
 
 let primeiroNumero = Number (prompt ("Digite o primeiro número: "))
 let segundoNumero = Number (prompt("Digite o segundo número: "))
+
+
 //```
 //O primeiro numero é maior que segundo? true
 console.log (`${primeiroNumero > segundoNumero}`)
